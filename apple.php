@@ -1,5 +1,7 @@
+<?php
 // plantilla inicio sesion apple
 // Modificar la plantilla si se quieren añadir los datos a una bd o a un archivo 
+?>
 
 <html dir="ltr" data-rtl="false" lang="es_ES" class="prefpane na-presentation globalheader-dark globalnav-scrim"><head>
 

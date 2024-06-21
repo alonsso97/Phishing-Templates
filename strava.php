@@ -1,5 +1,7 @@
+<?php
 // plantilla inicio sesion strava
 // Modificar la plantilla si se quieren añadir los datos a una bd o a un archivo 
+?>
 
 <!-- Application Layout -->
 <!DOCTYPE html>
